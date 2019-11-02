@@ -1,0 +1,2 @@
+include ':app', ':apt', ':googlepurchase'
+rootProject.name='Break'
